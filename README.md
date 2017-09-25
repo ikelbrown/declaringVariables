@@ -1,0 +1,2 @@
+# declaringVariables
+javascript basics
